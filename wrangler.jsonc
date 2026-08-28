@@ -1,0 +1,19 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "val-mar",
+  "compatibility_date": "2026-08-28",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": ".",
+    "exclude": [
+      ".git/**",
+      ".agents/**",
+      "*.md",
+      ".gitignore",
+      ".assetsignore",
+      "wrangler.jsonc"
+    ]
+  }
+}
