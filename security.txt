@@ -1,0 +1,7 @@
+Contact: mailto:valmarchlef@gmail.com
+Contact: https://valmar.crabdance.com/#contact
+Expires: 2027-12-31T23:59:59Z
+Preferred-Languages: ar, fr, en, es, ru
+Canonical: https://valmar.crabdance.com/security.txt
+Policy: https://valmar.crabdance.com/
+Acknowledgments: https://valmar.crabdance.com/

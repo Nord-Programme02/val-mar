@@ -1,0 +1,36 @@
+/* TEAM */
+
+Project
+VALMAR
+
+Description
+Marine Resources Valorization Platform
+
+Founder
+Abdennour Salaouatchi
+Fatima Zohra Chouieb
+
+Country
+Algeria
+
+City
+Chlef
+
+Website
+https://valmar.crabdance.com
+
+Languages
+Arabic
+French
+English
+Spanish
+Russian
+
+Technologies
+HTML5
+CSS3
+JavaScript
+GitHub Pages
+
+Mission
+Valorization of marine by-products through sustainable innovation.

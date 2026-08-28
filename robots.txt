@@ -1,0 +1,9 @@
+User-agent: *
+
+Allow: /
+
+Disallow:
+
+Host: https://valmar.crabdance.com
+
+Sitemap: https://valmar.crabdance.com/sitemap.xml

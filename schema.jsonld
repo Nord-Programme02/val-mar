@@ -1,0 +1,131 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://valmar.crabdance.com/#organization",
+      "name": "VAL MAR",
+      "alternateName": ["VALMAR", "Valorisation des Ressources Marines", "فال مار", "تثمين الموارد البحرية"],
+      "url": "https://valmar.crabdance.com/",
+      "logo": "https://valmar.crabdance.com/logo.svg",
+      "image": "https://valmar.crabdance.com/og-preview.png",
+      "description": "Startup algérienne spécialisée dans la valorisation des résidus organiques de poissons en huiles naturelles Omega-3, protéines marines et solutions industrielles écologiques.",
+      "foundingDate": "2024",
+      "foundingLocation": {
+        "@type": "Place",
+        "name": "Chlef, Algérie",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Chlef",
+          "addressCountry": "DZ"
+        }
+      },
+      "areaServed": {
+        "@type": "Country",
+        "name": "Algeria"
+      },
+      "contactPoint": [
+        {
+          "@type": "ContactPoint",
+          "telephone": "+213-77-856-293",
+          "contactType": "customer service",
+          "availableLanguage": ["Arabic", "French"]
+        },
+        {
+          "@type": "ContactPoint",
+          "telephone": "+213-655-944-984",
+          "contactType": "sales",
+          "availableLanguage": ["Arabic", "French"]
+        },
+        {
+          "@type": "ContactPoint",
+          "email": "valmarchlef@gmail.com",
+          "contactType": "general"
+        }
+      ],
+      "sameAs": [
+        "https://www.facebook.com/profile.php?id=61578348294133",
+        "https://www.linkedin.com/company/111141139/"
+      ],
+      "founder": [
+        {
+          "@type": "Person",
+          "name": "Abdennour Salaouatchi",
+          "alternateName": "عبد النور صلواتشي",
+          "jobTitle": "Co-Founder & Marine Sciences Engineer",
+          "sameAs": [
+            "https://www.linkedin.com/in/abdenour-salaouatchi-a2894b247",
+            "https://www.instagram.com/salaouatchi_abdenour"
+          ]
+        },
+        {
+          "@type": "Person",
+          "name": "Fatima Zohra Chouieb",
+          "alternateName": "فاطمة الزهراء شويب",
+          "jobTitle": "Co-Founder & Marine Sciences Engineer",
+          "email": "chouiebfatimazahra@gmail.com",
+          "sameAs": [
+            "https://www.instagram.com/zol_ach"
+          ]
+        }
+      ],
+      "knowsAbout": [
+        "Blue Economy",
+        "Marine Resources",
+        "Fish Waste",
+        "Fish Oil",
+        "Fish Meal",
+        "Marine Proteins",
+        "Omega-3",
+        "Circular Economy",
+        "Sustainability",
+        "Zero Waste",
+        "تثمين نفايات الأسماك",
+        "الاقتصاد الأزرق",
+        "زيت السمك",
+        "بروتين سمكي",
+        "Valorisation des déchets de poisson",
+        "Économie bleue",
+        "Huile de poisson",
+        "Economía azul",
+        "Aceite de pescado",
+        "Harina de pescado",
+        "Голубая экономика",
+        "Рыбий жир",
+        "Рыбная мука"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://valmar.crabdance.com/#website",
+      "url": "https://valmar.crabdance.com/",
+      "name": "VAL MAR — Valorisation des Ressources Marines",
+      "publisher": {
+        "@id": "https://valmar.crabdance.com/#organization"
+      },
+      "inLanguage": [
+        "ar",
+        "fr",
+        "en",
+        "es",
+        "ru"
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://valmar.crabdance.com/#homepage",
+      "url": "https://valmar.crabdance.com/",
+      "name": "VAL MAR",
+      "isPartOf": {
+        "@id": "https://valmar.crabdance.com/#website"
+      },
+      "about": {
+        "@id": "https://valmar.crabdance.com/#organization"
+      },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "url": "https://valmar.crabdance.com/og-preview.png"
+      }
+    }
+  ]
+}

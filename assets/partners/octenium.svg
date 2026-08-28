@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 468 60" width="100%" height="100%">
+  <defs>
+    <linearGradient id="octGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284C7"/>
+      <stop offset="100%" stop-color="#0F172A"/>
+    </linearGradient>
+  </defs>
+  <rect width="468" height="60" rx="10" fill="url(#octGradient)"/>
+  <rect x="1" y="1" width="466" height="58" rx="9" fill="none" stroke="rgba(255,255,255,0.2)" stroke-width="1.5"/>
+  <circle cx="36" cy="30" r="16" fill="#38BDF8" opacity="0.2"/>
+  <polygon points="36,18 46,24 46,36 36,42 26,36 26,24" fill="none" stroke="#38BDF8" stroke-width="2.5"/>
+  <text x="64" y="28" fill="#FFFFFF" font-family="'Cairo', sans-serif" font-weight="bold" font-size="14">OCTENIUM CLOUD HOSTING</text>
+  <text x="64" y="44" fill="#94A3B8" font-family="'Cairo', sans-serif" font-size="11">شريك الاستضافة السحابية والبنية التحتية الرسمية</text>
+  <rect x="375" y="16" width="75" height="28" rx="6" fill="#38BDF8"/>
+  <text x="412" y="34" fill="#0F172A" font-family="'Cairo', sans-serif" font-weight="bold" font-size="11" text-anchor="middle">زيارة الشريك</text>
+</svg>
